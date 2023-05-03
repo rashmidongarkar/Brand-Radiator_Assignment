@@ -1,0 +1,23 @@
+.customer {
+    margin:1rem;
+    padding: 1rem;
+    background-color: blue;
+    box-shadow: 0 2px 8px grey;
+    border-radius: 12px;
+    text-align: center;
+    color: aliceblue;
+}
+
+.customer h2{
+    font-size: 2rem;
+    color: yellow;
+
+}
+
+.customer h3{
+    color: yellowgreen;
+    margin: 0;
+    font-size: 1rem;
+}
+
+

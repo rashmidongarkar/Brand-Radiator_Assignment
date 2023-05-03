@@ -1,0 +1,56 @@
+{
+    "customers": [
+      {
+        "feedback": "This is the test feedback for the customer 1.This is the test feedback for the customer 1",
+        "name": "Customer001",
+        "email": "customer001@bitcode.in",
+        "tel": "123456",
+        "id": 1
+      },
+      {
+        "feedback": "This is the test feedback for the customer 2.This is the test feedback for the customer 1",
+        "name": "Customer002",
+        "email": "customer002@bitcode.in",
+        "tel": "123456",
+        "id": 2
+      },
+      {
+        "feedback": "This is the test feedback for the customer 3.This is the test feedback for the customer 1",
+        "name": "Customer003",
+        "email": "customer003@bitcode.in",
+        "tel": "123456",
+        "id": 3
+      },
+      {
+        "name": "0011",
+        "email": "shubham@gmail.com",
+        "tel": "1234567890",
+        "feedback": "yes",
+        "id": 4
+      },
+      {
+        "name": "0011",
+        "email": "shubham@gmail.com",
+        "tel": "1234567890",
+        "feedback": "yes",
+        "id": 5
+      }
+    ],
+    "Products": [
+      {
+        "id": 100,
+        "name": "laptop",
+        "cost": 34000
+      },
+      {
+        "id": 101,
+        "name": "laptop2",
+        "cost": 44000
+      },
+      {
+        "id": 102,
+        "name": "laptop23",
+        "cost": 54000
+      }
+    ]
+  }
